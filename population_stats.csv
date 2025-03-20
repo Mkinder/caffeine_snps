@@ -1,0 +1,31 @@
+Population,# Variants,SNPs,Insertions,Deletions,rs762551,rs2472304,rs2470893
+Chinese 1,3,2,1,0,not found,heterozygous - A,not found
+Chinese 2,8,8,0,0,not found,not found ,not found
+Chinese 3,2,2,0,0,not found,not found ,not found
+Chinese 4,1,1,0,0,not found,not found,not found
+Chinese 5,13,12,0,1,homozygous alternate - AA,not found,not found
+Chinese 6,17,14,1,2,homozygous alternate - AA,not found,heterozygous - A
+Chinese 7,13,10,1,2,homozygous alternate - AA,not found,homozygous -AA
+Chinese 8,1,1,0,0,homozygous alternate - AA,not found,not found
+Chinese 9,5,3,1,1,homozygous alternate - AA,heterozygous - A,heterozygous - A
+Chinese 10,8,6,0,2,homozygous alternate - AA,not found,not found
+Finnish 1,3,2,1,0,homozygous alternate - AA,homozygous alternate - AA,not found
+Finnish 2,2,0,0,0,not found,not found,not found
+Finnish 3,3,0,0,0,not found,not found,heterozygous - A
+Finnish 4,3,2,0,1,homozygous alternate - AA,not found,heterozygous - A
+Finnish 5,18,15,0,3,homozygous alternate - AA,heterozygous - A,not found
+Finnish 6,2,2,0,0,not found,heterozygous - A,not found
+Finnish 7,5,3,0,2,homozygous alternate - AA,not found,not found
+Finnish 8,5,5,0,0,homozygous alternate - AA,homozygous alternate - AA,not found
+Finnish 9,5,4,0,1,heterozygous - AC,heterozygous - A,not found
+Finnish 10,3,3,0,0,homozygous alternate - AA,homozygous alternate - AA,not found
+Italian 1,4,3,1,0,heterozygous - AC,heterozygous - A,not found
+Italian 2,4,2,1,1,homozygous alternate - AA,homozygous alternate - AA,not found
+Italian 3,4,2,0,2,homozygous alternate - AA,homozygous alternate - AA,not found
+Italian 4,7,5,1,1,homozygous alternate - AA,homozygous alternate - AA,not found
+Italian 5,3,3,0,0,heterozygous - AC,heterozygous - A,not found
+Italian 6,14,11,1,2,homozygous alternate - AA,heterozygous - A,not found
+Italian 7,3,2,0,1,homozygous alternate - AA,homozygous alternate - AA,not found
+Italian 8,1,1,0,0,not found,not found,not found
+Italian 9,2,2,0,0,homozygous alternate - AA,homozygous alternate - AA,not found
+Italian 10,3,2,1,0,heterozygous - AC,heterozygous - A,not found
