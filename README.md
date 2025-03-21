@@ -7,4 +7,5 @@ samtools
 bfctools
 java
 snpEff (genomic reference: GRCh38.99)
+The reference genome needs to be downloaded (the reference genome was located in the parent directory of the snp.py script)
 
